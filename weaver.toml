@@ -1,0 +1,2 @@
+[single]
+listeners.hello = {address = "localhost:3000"}

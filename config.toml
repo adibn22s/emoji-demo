@@ -1,0 +1,8 @@
+[serviceweaver]
+binary = "./01.exe"
+
+[single]
+listeners.emojis = {address = "localhost:3000"}
+
+[multi]
+listeners.emojis = {address = "localhost:3000"}
